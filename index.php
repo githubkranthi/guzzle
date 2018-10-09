@@ -11,3 +11,4 @@ use GuzzleHttp\Exception\GuzzleException;
 
 echo "welcome to guzzle";  
 echo "new line added";
+echo "2nd line also added"
