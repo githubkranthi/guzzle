@@ -9,4 +9,5 @@
 use GuzzleHttp;
 use GuzzleHttp\Exception\GuzzleException;
 
-echo "welcome to guzzle";
+echo "welcome to guzzle";  
+echo "new line added";
